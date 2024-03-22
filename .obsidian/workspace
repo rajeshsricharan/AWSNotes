@@ -10,6 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/AWS Solutions Architect Associate/API Gateway.md",
+            "file": "Notes/Static Site Generators/Static Site Generators.md",
             "mode": "preview",
             "source": true
           }
@@ -80,6 +81,7 @@
               "type": "backlink",
               "state": {
                 "file": "Notes/AWS Solutions Architect Associate/API Gateway.md",
+                "file": "Notes/Static Site Generators/Static Site Generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
               "type": "outline",
               "state": {
                 "file": "Notes/AWS Solutions Architect Associate/API Gateway.md"
+                "file": "Notes/Static Site Generators/Static Site Generators.md"
               }
             }
           },
@@ -136,13 +139,13 @@
   },
   "active": "f94a4db5c4dc1835",
   "lastOpenFiles": [
-    "Notes/AWS Solutions Architect Associate/API Gateway.md",
-    "Notes/Notes.md",
-    "Notes/AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02).md",
     "Notes/Static Site Generators/Static Site Generators.md",
+    "Notes/Notes.md",
     "Notes/Static Site Generators/Hugo.md",
+    "Notes/AWS Solutions Architect Associate/API Gateway.md",
     "Notes/Static Site Generators/Note Sharing.md",
     "index.md",
+    "Notes/AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02).md",
     "Notes/AWS Solutions Architect Associate/Elastic Compute Cloud (EC2).md",
     "Notes/AWS Solutions Architect Associate/AWS Directory Services.md",
     "Notes/AWS Solutions Architect Associate/Instance Store.md"
